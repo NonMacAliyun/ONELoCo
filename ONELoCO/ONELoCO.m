@@ -10,6 +10,8 @@
 
 @implementation ONELoCO
 
-- (void)blueToothSetting;
+- (void)blueToothSetting {
+    
+}
 
 @end
